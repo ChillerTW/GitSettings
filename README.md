@@ -4,7 +4,7 @@ Saving my personal data
 # Setup
 **macOS**
 ```
-cd /Users/chillerdragon/Library/Application Support/Teeworlds
+cd /Users/$USER/Library/Application Support/Teeworlds
 git clone https://github.com/ChillerDragon/GitSettings
 ```
 **linux**
