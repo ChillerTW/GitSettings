@@ -1,5 +1,5 @@
 # TeeworldsBackup
-Saving my personal data
+Saving my personal data (teeworlds settings)
 
 # Setup
 **macOS**
