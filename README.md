@@ -5,18 +5,18 @@ Saving my personal data (teeworlds settings)
 **macOS**
 ```
 cd /Users/$USER/Library/Application Support/Teeworlds
-git clone https://github.com/ChillerDragon/GitSettings
+git clone https://github.com/ChillerTW/GitSettings
 ```
 **linux**
 ```
 cd
 cd .teeworlds
-git clone https://github.com/ChillerDragon/GitSettings
+git clone https://github.com/ChillerTW/GitSettings
 ```
 **windows**
 ```
 cd %APPDATA%\Teeworlds
-git clone https://github.com/ChillerDragon/GitSettings
+git clone https://github.com/ChillerTW/GitSettings
 ```
 
 Then open teeeworlds and launch console command
