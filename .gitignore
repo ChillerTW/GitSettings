@@ -1,4 +1,3 @@
-pass_rcon.cfg
-pass_teerace.cfg
-pass_timeout.cfg
+pass_*.cfg
+auth_*.cfg
 login_rcon.cfg
