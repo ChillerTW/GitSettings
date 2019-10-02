@@ -9,8 +9,7 @@ git clone https://github.com/ChillerTW/GitSettings
 ```
 **linux**
 ```
-cd
-cd .teeworlds
+cd ~/.teeworlds
 git clone https://github.com/ChillerTW/GitSettings
 ```
 **windows**
