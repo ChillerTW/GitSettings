@@ -21,10 +21,10 @@ git clone https://github.com/ChillerTW/GitSettings
 Then open teeeworlds and launch console command
 ```
 # teeworlds 0.6 / DDNet
-exec GitSettings/settings_base.cfg
+exec GitSettings/base.cfg
 
 # teeworlds 0.7 / ZillyWoods
-exec GitSettings/settings_zilly.cfg
+exec GitSettings/zilly.cfg
 ```
 
 Make sure to adjust the pass_settings/ directory to your needs
