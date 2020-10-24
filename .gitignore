@@ -1,4 +1,5 @@
 pass_*.cfg
 auth_*.cfg
+*_secret.cfg
 login_rcon.cfg
 tags
