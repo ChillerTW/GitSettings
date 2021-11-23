@@ -2,5 +2,6 @@ pass_*.cfg
 auth_*.cfg
 passwords_*
 *_secret.cfg
+*_secret*.cfg
 login_rcon.cfg
 tags
