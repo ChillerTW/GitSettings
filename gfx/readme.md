@@ -10,6 +10,7 @@ and it should only ever load a config that looks like this
 
 ```
 # ~/.teeworlds/autoexec.cfg
+cl_save_settings 0
 exec GitSettings/base.cfg
 exec GitSettings/gfx/laptop.cfg
 ```
